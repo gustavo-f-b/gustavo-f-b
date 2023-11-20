@@ -1,8 +1,10 @@
 
 
-# Olá, pessoal! :smile:
+    printf("Hello Word!");
 
+<br/>
 <div>
+ <a href="https://medium.com/@gus.fbarroso" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>   
  <a href="https://www.hackerrank.com/profile/gus_fbarroso" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>   
           <a href="https://www.linkedin.com/in/gustavo-freire-barroso/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
           <a href = "mailto:gus.fbarroso@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -42,5 +44,4 @@
  - **Análise e Desenvolvimento de Sistemas** - [Universidade São Franscisco](https://www.usf.edu.br/?cp=gp&gad_source=1&gclid=Cj0KCQiApOyqBhDlARIsAGfnyMp0qFfhtVHRJMEtXvaSb-ytoKLNqljNYGU5lchgZ04CxRinEUtBOk8aAs5TEALw_wcB)
 	  - Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `C#`, `C`, `SQL`, `Engenharia de Software`, `NOSQL`,
 
-> Por favor, encontre-me no LinkedIn para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-
+> Por favor, para saber mais sobre mim, cursos que fiz e tudo, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/gustavo-freire-barroso/).
