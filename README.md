@@ -12,7 +12,6 @@
 ## Estatísticas:
 
 <div>
-            <img loading="lazy" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-f-b&layout=compact&langs_count=7&theme=dracula"/>
             <img loading="lazy" height="200px" src="https://github-readme-stats.vercel.app/api?username=gustavo-f-b&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
