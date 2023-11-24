@@ -20,7 +20,7 @@
 
 ## Um pouco sobre mim...
 - 👨‍💻 Meu nome é Gustavo, seja bem-vindo ao meu perfil.
-- 💡Extremamente curioso e apaixonado pela área da tecnologia e saúde.
+- 💡⚕️ Extremamente curioso e apaixonado pela área da tecnologia e saúde.
 
 ## Principais tecnologias:
 
