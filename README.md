@@ -13,9 +13,8 @@
 ## Estatísticas
 
 <div>
-            <img loading="lazy" height="200px" src="https://github-readme-stats.vercel.app/api?username=gustavo-f-b&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
+![gustavo-f-b's Stats](https://github-readme-stats.vercel.app/api?username=gustavo-f-b&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ## Um pouco sobre mim...
