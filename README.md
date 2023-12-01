@@ -3,8 +3,6 @@
 
     printf("Hello Word!");
 
-![](https://komarev.com/ghpvc/?username=gustavo-f-b&style=flat-square)
-
 <br/>
 <div>
  <a href="https://medium.com/@gus.fbarroso" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>   
